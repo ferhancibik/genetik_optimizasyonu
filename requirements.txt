@@ -1,0 +1,19 @@
+# Genetik Algoritma Optimizasyonu - Gerekli Kütüphaneler
+# Python 3.8 veya üzeri gereklidir
+
+# Sayısal hesaplamalar için
+numpy>=1.21.0
+
+# Görselleştirme için
+matplotlib>=3.4.0
+
+# Jupyter Notebook için
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# İsteğe bağlı: Daha iyi notebook deneyimi için
+ipywidgets>=7.6.0
+
+# İsteğe bağlı: Performans analizi için
+scipy>=1.7.0
+
