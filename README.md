@@ -56,7 +56,7 @@ Algoritma optimal sunucu konfigürasyonunu bulur:
 
 ### Fitness Evrimi
 
-![Fitness Evrimi](fitness_evrimi.png)
+![Fitness Evrimi](grafikler.png)
 
 Grafik, algoritmanın 150 nesil boyunca nasıl yakınsadığını gösterir.
 
