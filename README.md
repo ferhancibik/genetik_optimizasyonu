@@ -54,7 +54,11 @@ Algoritma optimal sunucu konfigürasyonunu bulur:
 - **RAM**: ~40-50 GB
 - **Performans Skoru**: ~200-220
 
-**Çıktı:** `fitness_evrimi.png` (Fitness evrim grafiği)
+### Fitness Evrimi
+
+![Fitness Evrimi](fitness_evrimi.png)
+
+Grafik, algoritmanın 150 nesil boyunca nasıl yakınsadığını gösterir.
 
 ## 📁 Dosyalar
 
