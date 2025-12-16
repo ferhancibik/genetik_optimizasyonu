@@ -1,8 +1,4 @@
-"""
-KISA VERSİYON - Jupyter Notebook'a Kopyala
-Bu kodu Colab'da yeni notebook oluşturup kopyala!
-~200 satır, 3D grafik yok, çok daha anlaşılır!
-"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
